@@ -1,0 +1,7 @@
+<html>
+    <head>Weather App </head>
+    <Body>
+        <h1>Monday</h1>
+        <P>Moderate rain and 7.4° in Los Angeles. </P>
+    </Body>
+</html>
